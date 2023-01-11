@@ -38,7 +38,7 @@ npm run test:mocha
 
 </br>
 
-# Best Practises Applied
+## Best Practises Applied
 
 - Code is written in TypeScript, which provides a number of benefits over JavaScript including static type checking and better scalability.
 
@@ -64,6 +64,6 @@ npm run test:mocha
 
 </br>
 
-# Authors
+## Authors
 
 - Michail Proios
